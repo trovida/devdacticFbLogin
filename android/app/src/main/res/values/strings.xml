@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">devdacticFbLogin</string>
+    <string name="title_activity_main">devdacticFbLogin</string>
+    <string name="package_name">com.trovida.fblogin</string>
+    <string name="custom_url_scheme">com.trovida.fblogin</string>
+    <string name="facebook_app_id">731979877757051</string>
+    <string name="fb_login_protocol_scheme">fb731979877757051</string>
+</resources>
